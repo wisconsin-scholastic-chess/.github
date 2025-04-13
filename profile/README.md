@@ -2,7 +2,7 @@
 
 This is the place for digital projects made by the Wisconsin Scholastic Chess Federation!
 
-Feel like you want to get involved? [Contact us!](mailto: bob@wisconsinscholasticchess.org)
+Feel like you want to get involved? [Contact us!](https://www.wisconsinscholasticchess.org/contact-us/)
 
 From [the website](https://www.wisconsinscholasticchess.org/):
 
